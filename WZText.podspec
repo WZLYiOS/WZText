@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'WZText'
-  s.summary      = 'Powerful text framework for iOS to display and edit rich text.'
+  s.summary      = 'Powerful text framework for iOS to display and edit rich texts.'
   s.version      = '1.0.7'
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.authors      = { 'ibireme' => 'ibireme@gmail.com' }
